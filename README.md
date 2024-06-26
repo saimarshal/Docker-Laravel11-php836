@@ -50,6 +50,8 @@ docker-compose run composer install
 docker-compose run npm install
 `
 
+# Copy and edir env file
+
 # Setup Laravel
 Generate Key  
 `
